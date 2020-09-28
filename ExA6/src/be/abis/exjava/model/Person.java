@@ -64,11 +64,11 @@ public class Person {
 	} 
 
 	public String toString() {
+		String outString = "Name : " + this.firstName + " " + this.lastName + " " + calculateAge() + " years Old" + " ";
 		if (this.company != null) {
-			return "Name : " + this.firstName + " " + this.lastName + " " + calculateAge() + " years Old" + " " + company.toString();
-		} else {
-			return "Name : " + this.firstName + " " + this.lastName + " " + calculateAge() + " years Old" + " ";
+			outString += company;
 		}
+		return outString;
 	}
 	
 	public int calculateAge()  {
