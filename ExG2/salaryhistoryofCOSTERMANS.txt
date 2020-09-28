@@ -1,0 +1,6 @@
+Salary of Grietje COSTERMANS at 23 is 8000.0
+Salary of Grietje COSTERMANS at 28 is 8240.0
+Salary of Grietje COSTERMANS at 33 is 8487.2
+Salary of Grietje COSTERMANS at 38 is 8741.816
+Salary of Grietje COSTERMANS at 43 is 9004.07
+Salary of Grietje COSTERMANS at 48 is 9274.192
